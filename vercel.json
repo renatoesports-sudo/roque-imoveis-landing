@@ -1,20 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/assets/:path*",
-      "destination": "/saidas/landing-roque-imoveis/assets/:path*"
-    },
-    {
-      "source": "/styles.css",
-      "destination": "/saidas/landing-roque-imoveis/styles.css"
-    },
-    {
-      "source": "/script.js",
-      "destination": "/saidas/landing-roque-imoveis/script.js"
-    },
-    {
       "source": "/:path*",
-      "destination": "/saidas/landing-roque-imoveis/index.html"
+      "destination": "/index.html"
     }
   ]
 }
