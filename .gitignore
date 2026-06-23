@@ -16,6 +16,7 @@ Thumbs.db
 
 # Dependências
 node_modules/
+dist/
 
 # Arquivos temporários
 *.log
