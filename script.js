@@ -11,8 +11,8 @@ function buildMessage(form) {
   const investment = String(data.get("investimento") || "").trim();
 
   return [
-    "Ola, Roque Imoveis.",
-    "Quero receber opcoes de imoveis para compra em Limeira e regiao.",
+    "Olá, Roque Imóveis.",
+    "Quero receber opções de imóveis para compra em Limeira e região.",
     "",
     `Nome: ${name}`,
     `WhatsApp: ${phone}`,
